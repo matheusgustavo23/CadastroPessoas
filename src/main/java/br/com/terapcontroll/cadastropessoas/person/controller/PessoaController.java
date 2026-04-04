@@ -1,4 +1,4 @@
-package br.com.terapcontroll.cadastropessoas.controllers;
+package br.com.terapcontroll.cadastropessoas.person.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
